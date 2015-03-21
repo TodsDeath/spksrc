@@ -1,5 +1,5 @@
 SPK_NAME = mkvtoolnix
-SPK_VERS = 7.3.0
+SPK_VERS = 7.7.0
 SPK_REV = 1
 SPK_ICON = src/mkvtoolnix.png
 
@@ -11,7 +11,7 @@ DESCRIPTION_GER = MKVToolNix stellt eine Reihe von Werkzeugen bereit, um Dateien
 STARTABLE = no
 RELOAD_UI = no
 DISPLAY_NAME = MKVToolNix
-CHANGELOG = "initial cross-compile"
+CHANGELOG = "updated to 7.7.0"
 
 HOMEPAGE = http://www.bunkus.org/videotools/mkvtoolnix/
 LICENSE  =
